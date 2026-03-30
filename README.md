@@ -20,11 +20,10 @@ ecommerce-app-repo/
 ├── Dockerfile
 ├── Jenkinsfile
 ├── k8s/
-│ ├── deployment.yaml
-│ └── service.yaml
+│   ├── deployment.yaml
+│   └── service.yaml
 └── argocd/
-└── application.yaml
-
+    └── application.yaml
 
 ---
 
